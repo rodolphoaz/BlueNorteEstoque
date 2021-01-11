@@ -1,79 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta Azul",
-      "price": 5.89
+      "name": "abacaxi de marataisa",
+      "price": "5.98",
+      "id": 3
     },
     {
-      "id": 2,
-      "name": "Caneta preta",
-      "price": 6.99
-    },
-    {
-      "id": 3,
-      "name": "Caneta vermelha",
-      "price": 3.4
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
+      "name": "Pão",
+      "price": "12.9",
       "id": 4
     },
     {
-      "name": "produtoteste",
-      "price": 125.9,
+      "name": "sorvete de limão",
+      "price": "15.00",
       "id": 5
     },
     {
-      "name": "maçã",
-      "price": "5.90",
+      "name": "Bolo de chocolate com cobertura",
+      "price": "12.5",
       "id": 6
-    },
-    {
-      "name": "celular k61",
-      "price": "1235.9",
-      "id": 7
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
-      "id": 8
-    },
-    {
-      "name": "bateria",
-      "price": 125.9,
-      "id": 9
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
-      "id": 10
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
-      "id": 11
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
-      "id": 12
-    },
-    {
-      "name": "produtotesteffgf",
-      "price": 125.9,
-      "id": 13
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
-      "id": 14
-    },
-    {
-      "name": "produtoteste",
-      "price": 125.9,
-      "id": 15
     }
   ]
 }
